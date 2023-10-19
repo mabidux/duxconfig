@@ -1,0 +1,4 @@
+name: duxconfig
+version: 1.0
+main: dev.abidux.duxconfig.DuxConfigPlugin
+author: abidux

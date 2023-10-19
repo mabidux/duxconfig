@@ -1,0 +1,11 @@
+# Deve mandar a mensagem com os valores da config?
+should_send_message: false
+
+# Uma mensagem aleatória
+example_message: 'Isto é uma mensagem exemplo'
+
+# Um int aleatório
+example_int: 10
+
+# Um double aleatório
+example_double: 1.12
